@@ -209,11 +209,11 @@
 		</dependency>
 		
 		<!-- Spring Data JPA -->
-		<dependency>
-		    <groupId>org.springframework.data</groupId>
-		    <artifactId>spring-data-jpa</artifactId>
-		    <version>${spring-data-jpa.version}</version>
-		</dependency>
+		< dependência >
+                 < groupId > org.springframework.data </ groupId >
+                 < artifactId > spring-data-jpa </ artifactId >
+                 < versão > [1.11.20,) </ version >
+                </ dependency >
 		
 		<!-- Jackson - JSON -->
 		<dependency>
